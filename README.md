@@ -17,3 +17,8 @@ The script calculates the tip, sales tax, and grand total using the following fo
 Tip: 18% of the food bill.
 Sales Tax: 7% of the food bill.
 Grand Total: Sum of food charges, tip, and sales tax.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+https://github.com/worlakuma/Tip_Calculator/blob/main/LICENSE
+
